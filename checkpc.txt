@@ -1,0 +1,7 @@
+132
+0;arr_data_game.bin;arr_data_game;152828
+1;mapmini.zip;map_mini_zip;27524;79726;149053;243816
+2;iconClient.zip;client_zip;1199869;3155808;5763585;9122966
+3;jasr.dll;jasr.dll;845824
+4;LangLa.exe;LangLa.exe;148725
+5;core.jar;core.jar;763031;gdx.jar;gdx.jar;7926170
